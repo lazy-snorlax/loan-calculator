@@ -1,2 +1,2 @@
-# loan-calculator
+# Loan Calculator
 A simple loan calculator app in javascript.
